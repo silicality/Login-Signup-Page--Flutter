@@ -10,14 +10,13 @@ This project is forked from the original work by Abuanwar.
 
 Original Repository: https://github.com/abuanwar072/Welcome-Login-Signup-Page-Flutter
 
-Original Author: Abuanwar
 
 Purpose of the original project:
 A clean and minimal Flutter UI for Welcome, Login, and Signup screens.
 
 🙏 Full credit for the original UI design and base implementation goes to the original author.
 
-🎯 Purpose of This Fork
+🎯 Purpose of This project
 
 The original project provides a solid UI foundation, but it does not include real-world authentication features.
 
